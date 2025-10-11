@@ -1,0 +1,11 @@
+Package: quemos-theme
+Version: 1.0
+Architecture: amd64
+Maintainer: QuemOS
+Installed-Size: 66518
+Depends: libc6, quemos-theme-2
+Section: utils
+Priority: optional
+Homepage: https://github.com/quemos
+Description: QuemOS Theme
+  QuemOS Theme

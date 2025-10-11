@@ -1,0 +1,57 @@
+[keyring]
+display-name=Default keyring
+ctime=1759676291
+mtime=0
+lock-on-idle=false
+lock-after=false
+
+[2]
+item-type=0
+display-name=Brave Safe Storage
+secret=lSsOMm025nYFiqg7Ym56rQ==
+mtime=1759676291
+ctime=1759676291
+
+[2:attribute0]
+name=application
+type=string
+value=brave
+
+[2:attribute1]
+name=xdg:schema
+type=string
+value=chrome_libsecret_os_crypt_password_v2
+
+[3]
+item-type=0
+display-name=Application key for org.chromium.Chromium
+binary-secret=D6380B0873B93AFCE6F61270811F887BACADD9C50DD0FD16F2AE56D41F314FB502598A2E3034A61753F09434B7C47193E7D39C446E5D7543077DB71D72A64E2C
+mtime=1759688416
+ctime=1759688416
+
+[3:attribute0]
+name=app_id
+type=string
+value=org.chromium.Chromium
+
+[3:attribute1]
+name=xdg:schema
+type=string
+value=org.freedesktop.portal.Secret
+
+[1]
+item-type=0
+display-name=Chrome Safe Storage Control
+secret=The meaning of life
+mtime=1759676291
+ctime=1759676291
+
+[1:attribute0]
+name=explanation
+type=string
+value=Because of quirks in the gnome libsecret API, Chrome needs to store a dummy entry to guarantee that this keyring was properly unlocked. More details at http://crbug.com/660005.
+
+[1:attribute1]
+name=xdg:schema
+type=string
+value=_chrome_dummy_schema_for_unlocking

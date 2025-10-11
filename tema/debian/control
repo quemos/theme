@@ -1,0 +1,13 @@
+Source: quemos-theme
+Section: utils
+Priority: optional
+Maintainer: QuemOS
+Build-Depends: make
+Standards-Version: 1.0
+Homepage: https://github.com/quemos
+
+Package: quemos-theme
+Architecture: any
+Depends: libc6, quemos-theme-2
+Description: QuemOS Theme
+  QuemOS Theme
