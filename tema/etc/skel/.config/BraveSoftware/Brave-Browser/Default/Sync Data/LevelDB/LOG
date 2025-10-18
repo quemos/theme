@@ -1,3 +1,2 @@
-2025/10/17-21:39:43.844 f78 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2025/10/17-21:39:43.845 f78 Recovering log #3
-2025/10/17-21:39:43.845 f78 Reusing old log /home/user/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000003.log 
+2025/10/18-21:16:44.944 10b8 Creating DB /home/user/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB since it was missing.
+2025/10/18-21:16:44.946 10b8 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001

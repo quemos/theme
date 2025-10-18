@@ -1,3 +1,2 @@
-2025/10/17-21:39:43.856 5 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2025/10/17-21:39:43.861 5 Recovering log #3
-2025/10/17-21:39:43.861 5 Reusing old log /home/user/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2025/10/18-21:16:44.956 5 Creating DB /home/user/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb since it was missing.
+2025/10/18-21:16:44.960 5 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001

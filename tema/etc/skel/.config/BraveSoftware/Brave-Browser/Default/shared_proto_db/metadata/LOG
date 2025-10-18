@@ -1,3 +1,2 @@
-2025/10/17-21:39:43.973 f82 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/MANIFEST-000001
-2025/10/17-21:39:43.973 f82 Recovering log #3
-2025/10/17-21:39:43.973 f82 Reusing old log /home/user/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/000003.log 
+2025/10/18-21:16:45.060 10b8 Creating DB /home/user/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata since it was missing.
+2025/10/18-21:16:45.061 10b8 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/MANIFEST-000001

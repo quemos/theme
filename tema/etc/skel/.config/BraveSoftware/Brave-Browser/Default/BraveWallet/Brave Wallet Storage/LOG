@@ -1,3 +1,2 @@
-2025/10/17-21:39:43.847 f75 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/MANIFEST-000001
-2025/10/17-21:39:43.847 f75 Recovering log #3
-2025/10/17-21:39:43.847 f75 Reusing old log /home/user/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/000003.log 
+2025/10/18-21:16:44.946 10b8 Creating DB /home/user/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage since it was missing.
+2025/10/18-21:16:44.947 10b8 Reusing MANIFEST /home/user/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/MANIFEST-000001

@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="476" last-seen="1757411176"/>
-    <application id="org.gnome.Settings.desktop" score="11" last-seen="1757411136"/>
+    <application id="org.gnome.Nautilus.desktop" score="3" last-seen="1760822204"/>
+    <application id="org.gnome.Extensions.desktop" score="27" last-seen="1760822091"/>
     <application id="org.gnome.tweaks.desktop" score="0" last-seen="1760388115"/>
-    <application id="org.gnome.Extensions.desktop" score="2" last-seen="1760737075"/>
     <application id="org.gnome.Software.desktop" score="1" last-seen="1760737207"/>
     <application id="org.gnome.Terminal.desktop" score="0" last-seen="1760737169"/>
-    <application id="com.desktop.ding.desktop" score="2" last-seen="1757407174"/>
-    <application id="brave-browser.desktop" score="18" last-seen="1760737199"/>
-    <application id="org.gnome.Shell.Extensions.desktop" score="0" last-seen="1757407789"/>
+    <application id="com.desktop.ding.desktop" score="0" last-seen="1760821890"/>
+    <application id="brave-browser.desktop" score="25" last-seen="1760822220"/>
   </context>
 </application-state>
