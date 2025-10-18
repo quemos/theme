@@ -63,4 +63,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///media/user/Mert/Kay%C4%B1t%20Yeri/yedek/cache" added="2025-10-17T21:41:51.797120Z" modified="2025-10-17T21:41:51.797125Z" visited="2025-10-17T21:41:51.797120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-10-17T21:41:51.797121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

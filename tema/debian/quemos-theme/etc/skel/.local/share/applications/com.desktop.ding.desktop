@@ -1,0 +1,78 @@
+[Desktop Entry]
+Type=Application
+Name[be]=Значкі працоўнага стала
+Name[hu]=Asztali ikonok
+Name[pl]=Ikony pulpitu
+Name[ru]=Desktop Icons
+Name[sk]=Ikony plochy
+Name[zh_CN]=桌面图标
+Name=Desktop Icons
+GenericName[be]=Значкі працоўнага стала
+GenericName[hu]=Asztali ikonok
+GenericName[pl]=Ikony pulpitu
+GenericName[ru]=Desktop Icons
+GenericName[sk]=Ikony plochy
+GenericName[zh_CN]=桌面图标
+GenericName=Desktop Icons
+Comment[pl]=Wyświetlaj ikony na pulpicie GNOME
+Comment[ru]=Показывать значки на рабочем столе GNOME
+Comment[sk]=Zobraziť ikony na pracovnej ploche GNOME
+Comment=Display icons on the GNOME desktop
+Keywords[pl]=desktop;icons;files;folders;manager;arrange;hide;show;launcher;shortcuts;
+Keywords[ru]=desktop;icons;files;folders;manager;arrange;hide;show;launcher;shortcuts;рабочий стол;файлы;значки;комбинации клавиш;папки;
+Keywords[sk]=plocha;ikony;súbory; priečinky;správca;usporiadať;skryť;zobraziť;spúšťač;skratky;
+Keywords=desktop;icons;files;folders;manager;arrange;hide;show;launcher;shortcuts;
+Icon=com.desktop.ding
+
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell --method org.gnome.Shell.Extensions.EnableExtension gtk4-ding@smedius.gitlab.com
+TryExec=/usr/bin/gdbus
+Terminal=false
+StartupNotify=false
+OnlyShowIn=GNOME;
+Categories=Utility;DesktopSettings;Settings;
+
+X-Ding-SingleMainWindow=false
+
+Actions=togglevisibility;enable;showshortcuts;preferences;disable;
+
+[Desktop Action togglevisibility]
+Name[pl]=Pokaż<>Ukryj
+Name[ru]=Показать<>Скрыть
+Name[sk]=Zobraziť<>Skryť
+Name=Show<>Hide
+Exec=gapplication action com.desktop.ding toggleVisibility
+
+[Desktop Action enable]
+Name[be]=Уключыць
+Name[hu]=Engedélyezés
+Name[pl]=Włącz
+Name[ru]=Включить
+Name[sk]=Zapnúť
+Name=Enable
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell --method org.gnome.Shell.Extensions.EnableExtension gtk4-ding@smedius.gitlab.com
+
+[Desktop Action showshortcuts]
+Name[be]=Спалучэнні клавіш
+Name[es]=Accesos directos
+Name[hu]=Gyorsbillentyűk
+Name[pl]=Skróty klawiszowe
+Name[ru]=Комбинации клавиш
+Name[sk]=Klávesové skratky
+Name[tr]=Kısayollar
+Name[zh_CN]=快捷方式
+Name=Shortcuts
+Exec=gapplication action com.desktop.ding showShortcutViewer
+
+[Desktop Action preferences]
+Name[pl]=Preferencje
+Name[ru]=Параметры
+Name[sk]=Predvoľby
+Name=Preferences
+Exec=gapplication action com.desktop.ding changeDesktopIconSettings
+
+[Desktop Action disable]
+Name[pl]=Wyłącz
+Name[ru]=Выключить
+Name[sk]=Vypnúť
+Name=Disable
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell --method org.gnome.Shell.Extensions.DisableExtension gtk4-ding@smedius.gitlab.com

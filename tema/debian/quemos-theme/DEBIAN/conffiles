@@ -1,27 +1,32 @@
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/0ebc70572ec6b8ce_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/1caf9eb41606c7e7_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/365c7b3c9fca8d5f_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/3a9f1d5cd9cda68f_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/659806d5dbf88f53_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/667f2505079f72ab_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/6dd71c233515fb3d_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/702e27ffae073f29_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/7356dcba785f3098_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/8949af7f2e0e7214_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/94f6ff69f9b05b0c_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/95130636aa727d71_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/a541bd6e2d26ab15_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/a5ffbc575817627d_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/a7a380fdc3ecbaff_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/a9621724de6eca35_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/abc80f1406207284_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b83b09acaa1ca85c_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/cc8c9a9e37d49625_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/f0c141fd047c74fd_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/f321de47d9205b18_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/f56789d8f5671370_0
+/etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/f713894f2e69c4a8_0
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir/the-real-index
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index-dir/the-real-index
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/wasm/index
 /etc/skel/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/wasm/index-dir/the-real-index
-/etc/skel/.config/BraveSoftware/Brave-Browser/BrowserMetrics-spare.pma
 /etc/skel/.config/BraveSoftware/Brave-Browser/CertificateRevocation/10071/LICENSE
 /etc/skel/.config/BraveSoftware/Brave-Browser/CertificateRevocation/10071/_metadata/verified_contents.json
 /etc/skel/.config/BraveSoftware/Brave-Browser/CertificateRevocation/10071/crl-set
@@ -36,21 +41,26 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AdBlock Custom Resources/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AdBlock Custom Resources/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AdBlock Custom Resources/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/AdBlock Custom Resources/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AdBlock Custom Resources/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Affiliation Database
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Affiliation Database-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/AutofillStrikeDatabase/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BookmarkMergedSurfaceOrdering
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BraveWallet/Brave Wallet Storage/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/BudgetDatabase/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/ClientCertificates/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/ClientCertificates/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/ClientCertificates/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Cookies
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/DIPS
@@ -66,6 +76,7 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/DawnWebGPUCache/index
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Download Service/EntryDB/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension Rules/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension Rules/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension Rules/LOCK
@@ -80,17 +91,21 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension State/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension State/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension State/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension State/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Favicons
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Favicons-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Feature Engagement Tracker/EventDB/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GCM Store/Encryption/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_0
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_1
@@ -101,10 +116,12 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/History-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Login Data
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Login Data For Account
@@ -115,6 +132,7 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Network Persistent State
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/PersistentOriginTrials/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/PersistentOriginTrials/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/PersistentOriginTrials/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Preferences
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/PreferredApps
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/README
@@ -131,9 +149,12 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Session Storage/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Session Storage/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Session Storage/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Session Storage/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Session_13404150800676168
-/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Tabs_13404150886408810
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Session_13405210754669847
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Session_13405210786351627
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Tabs_13405210754799850
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sessions/Tabs_13405210786479027
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Shared Dictionary/cache/index
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Shared Dictionary/cache/index-dir/the-real-index
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Shared Dictionary/db
@@ -144,16 +165,20 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Top Sites
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Top Sites-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Trust Tokens
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Trust Tokens-journal
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOCK
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/VideoDecodeStats/LOG
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Web Data
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/Web Data-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager
@@ -164,29 +189,61 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/ads_service/database.sqlite-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/chrome_cart_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/chrome_cart_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/chrome_cart_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/commerce_subscription_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/discount_infos_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/discount_infos_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/discount_infos_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/discounts_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/discounts_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/discounts_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/heavy_ad_intervention_opt_out.db
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/heavy_ad_intervention_opt_out.db-journal
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/parcel_tracking_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/parcel_tracking_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/parcel_tracking_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/MANIFEST-000001
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/000003.log
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/CURRENT
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/LOCK
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/LOG
+/etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/LOG.old
 /etc/skel/.config/BraveSoftware/Brave-Browser/Default/shared_proto_db/metadata/MANIFEST-000001
-/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.410/brave_metadata/verified_contents.json
-/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.410/list.txt
-/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.410/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/Dictionaries/en-US-10-1.bdic
+/etc/skel/.config/BraveSoftware/Brave-Browser/FileTypePolicies/67/_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/FileTypePolicies/67/download_file_types.pb
+/etc/skel/.config/BraveSoftware/Brave-Browser/FileTypePolicies/67/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/First Run
+/etc/skel/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_0
+/etc/skel/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_1
+/etc/skel/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_2
+/etc/skel/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_3
+/etc/skel/.config/BraveSoftware/Brave-Browser/GrShaderCache/index
+/etc/skel/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_0
+/etc/skel/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_1
+/etc/skel/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_2
+/etc/skel/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_3
+/etc/skel/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/index
+/etc/skel/.config/BraveSoftware/Brave-Browser/Last Version
+/etc/skel/.config/BraveSoftware/Brave-Browser/Local State
+/etc/skel/.config/BraveSoftware/Brave-Browser/P3AConfig/1.0.5/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/P3AConfig/1.0.5/p3a_manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/ShaderCache/data_0
+/etc/skel/.config/BraveSoftware/Brave-Browser/ShaderCache/data_1
+/etc/skel/.config/BraveSoftware/Brave-Browser/ShaderCache/data_2
+/etc/skel/.config/BraveSoftware/Brave-Browser/ShaderCache/data_3
+/etc/skel/.config/BraveSoftware/Brave-Browser/ShaderCache/index
+/etc/skel/.config/BraveSoftware/Brave-Browser/Variations
+/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.412/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.412/list.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/adcocjohghhfpidemphmcmlmhnfgikei/1.0.412/manifest.json
 /etc/skel/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.1270/1/clean-urls-permissions.json
 /etc/skel/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.1270/1/clean-urls.json
 /etc/skel/.config/BraveSoftware/Brave-Browser/afalakplffnnnlkncjhbmahjfjhmlkal/1.0.1270/1/debounce.json
@@ -229,43 +286,79 @@
 /etc/skel/.config/BraveSoftware/Brave-Browser/aoojcmojmmcbpfgoecoadbdpnagfchel/1.0.20/the-mogli.jpg
 /etc/skel/.config/BraveSoftware/Brave-Browser/aoojcmojmmcbpfgoecoadbdpnagfchel/1.0.20/tobias-keller.jpg
 /etc/skel/.config/BraveSoftware/Brave-Browser/aoojcmojmmcbpfgoecoadbdpnagfchel/1.0.20/vedant-sonani.jpg
-/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15522/brave_metadata/verified_contents.json
-/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15522/list.txt
-/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15522/manifest.json
-/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17495/brave_metadata/verified_contents.json
-/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17495/list.txt
-/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17495/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15747/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15747/list.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/bfpgedeaaibpoidldhjcknekahbikncb/1.0.15747/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17778/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17778/list.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/cdbbhgbmjhfnhnmgeddbliobbofkgdhe/1.0.17778/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/03177af871dfda6a6a580a63a7a9d10c69fe20b4cd6c33e5a88f7ab9c68a61db
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/05399c5840405f4af2454470ceccaa3d097f07e271705cf37c1e5559ce793eeb
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/093f619c4d5b46ceed9041b717dfc3f88bdbd61b1950c30b85b7bb4897f66f3b
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/12ed0796cfeef97214342b1845860f8a34c20f498b38a8012dd0cebb5eddae1d
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/095de298a308038a72449eb98a466d152adac9b50d101d2496fade190715387a
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/1be2e82840c4f3ac4335e11fc7466436746a092c300738dbfeecacb93bd47714
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/1cddea6054d4d083c77909506e100290582671529de6a4e515dda3c14702a514
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/1f60c32767278a6d40268dffd9ca5e2832b56c4e17728ef2f9a1804e2936538c
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/20fbe32db842a410304f14519ab6cc5da472fb06b63001e19414b138bdbb5437
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/3eb16d6c28b502ac4cfee8f4a148df05f4d93229fa36a71db8b08d06329ff18a
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/4024a4e58bdfad0280020f3403f067795b8138a5c23bad9d9106c52047e372f9
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/42906cad24029f36aa6ddc9ea2fb1812deb67f677f043c83730f4438f0b4e5f4
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/46e08c6abc93bab45ffaa17d176925e5b94769460e98d6351de1a62cae4453cc
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/531a0e8c8340d65134d1a3101595c25cf8d10357417241e1727c47052deec446
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/545666a4efd056351597bb386aea1368105ededc976ed5650d8682daab9f37ff
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/6d367ede21f0fa337a7003f9eb97b70e33a9ea2beb41cc3f95ee198b974d69ee
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/82ed61c864ec33fafee7920cc2b0841b0fd65ae54f0764fd97e23c3811c95cf4
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/9531d955aa9a83b312515972575942c1901b943c87ff3fe2b4ac41bbb8152bf4
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/69a5911dffac6637bbdc41f2150cdf86fbb0de3638fc0b6fae268a259cf86c7b
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/767ca8f30a50315c4d6cf09b0f346dd4d2346edd8e1ee470ad2a99ad5f63dc43
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/8e9f477c5c79d3f4ff669154b6a63b064baebc1f31ed026d995c8b0888d0a64a
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/968b295887bca53f4fa70ecf6e27c81af50b599e3ff7f9e71466559e2f8a9ae3
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/9909371ccf6e8745d73c423a09d148cb2a831805fb4e1a86b82719edfb13f634
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/b4ce36658b8bfb7be294c9c15d7a1aa91fc0b865480f96a845aa3506a51ec8e9
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/a8fb29717cb0b1b8c35b74420f778168f74a47052592ea5a260a7457738260bd
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/b8003ebab8986b06b749f92e37874188eaf80816b73ff58068497f286c1e48e0
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/c52c62a7c50daf7d3f73ec16977cd4b0ea401710807d5dbe3850941dd1b73a70
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/cb23ece0c993ac93324de6fb751d036bd72f2e7e9cac93c21b7c6fabf393093c
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/cd90570f02ef6465d8e324fb9eb3729b08100f73cdd8c521e3c819b001526877
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/da9ac4717f8659d258e56025923fa81f2127b6e9e2da026e9454a959bc1c8c28
+/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/e47b561b599163360c54b6179b18a0a97c69d60a6f14c8271c9dd99bf821c5e7
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/f170abcab0c344e1784607bbf926a20e9ce705f34e05c3c5c551fa17b606b955
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/fae2b0ec57da853ae7608cfc99d4acdddadcf91995f55ab610d62af796fc65d5
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/fe1620e620a7a5ec07c759e423c20d262e60f94191336a4b3a8fa0ded1e46bea
-/etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/ff7f9af4875c008a58e7b9562dcd9043d50ed68816f28e987c97dab9c80728f0
 /etc/skel/.config/BraveSoftware/Brave-Browser/component_crx_cache/metadata.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/32b56646-80e2-48cb-bd93-c236bb095585/a857225d-22fa-4a9e-99b8-9c5a36ea3b69.png
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/32b56646-80e2-48cb-bd93-c236bb095585/de0375dc-c373-408a-8193-6e479e9a724c.jpg
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/743cdea7-7570-49ae-ae6d-c5aaab8c0b50/100aad43-0be4-425a-95d7-64de266e1b6f.png
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/743cdea7-7570-49ae-ae6d-c5aaab8c0b50/ec25d0f9-9d07-49f0-8333-938e428d47bf.jpg
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/campaigns.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/d30ee5e0-434b-4337-b9df-f2323bdec834/2c681e36-f3b6-4edc-89c3-70a229aa5fcd.jpg
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/d30ee5e0-434b-4337-b9df-f2323bdec834/7435322d-34fa-4bf1-91ac-77101e85930c.png
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/dcc48bc0-a04a-482c-8f7a-03bcb01385f3/44d2aa80-e202-4181-8a30-bf2b19f36567.jpg
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/dcc48bc0-a04a-482c-8f7a-03bcb01385f3/e3a53f61-c122-48f2-89c5-36a245ca2ee4.png
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/dglngbgepdcmodilimpbpekobgiinpdg/1.0.2089/photo.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/extensions_crx_cache/metadata.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/fahflofbglhemnakgdmillobeencekne/1.0.41/crwrtstntanorwucetukmhhwnitgxrrn
+/etc/skel/.config/BraveSoftware/Brave-Browser/fahflofbglhemnakgdmillobeencekne/1.0.41/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/fahflofbglhemnakgdmillobeencekne/1.0.41/resources.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.84/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.84/list_catalog.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.84/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/gkboaolpopklhgplhaaiboijnklogmbc/1.0.84/regional_catalog.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/iodkpdagapdfkphljnddpjlldadblomo/1.0.15228/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/iodkpdagapdfkphljnddpjlldadblomo/1.0.15228/list.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/iodkpdagapdfkphljnddpjlldadblomo/1.0.15228/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/kihnoaefogbkmblfimmibknnmkllbhlf/1.0.1088/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/kihnoaefogbkmblfimmibknnmkllbhlf/1.0.1088/list.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/kihnoaefogbkmblfimmibknnmkllbhlf/1.0.1088/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/mfddibmblmbccpadfndgakiopmmhebop/1.0.114/brave_metadata/verified_contents.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/mfddibmblmbccpadfndgakiopmmhebop/1.0.114/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/mfddibmblmbccpadfndgakiopmmhebop/1.0.114/resources.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/nlpaeekllejnmhoonlpcefpfnpbajbpe/1.0.225/brave-checks.txt
+/etc/skel/.config/BraveSoftware/Brave-Browser/nlpaeekllejnmhoonlpcefpfnpbajbpe/1.0.225/manifest.json
+/etc/skel/.config/BraveSoftware/Brave-Browser/segmentation_platform/ukm_db
+/etc/skel/.config/BraveSoftware/Brave-Browser/segmentation_platform/ukm_db-wal
 /etc/skel/.config/dconf/user
 /etc/skel/.config/evolution/sources/birthdays.source
 /etc/skel/.config/evolution/sources/system-calendar.source
 /etc/skel/.config/evolution/sources/system-proxy.source
 /etc/skel/.config/gnome-xdg-terminals.list
 /etc/skel/.config/gtk-3.0/bookmarks
+/etc/skel/.config/ibus/bus/70bca3dd3eab447c9cf20c071061d80e-unix-0
+/etc/skel/.config/ibus/bus/70bca3dd3eab447c9cf20c071061d80e-unix-wayland-0
 /etc/skel/.config/ibus/bus/7d409c1f458f43c49e59264f315f4e50-unix-0
 /etc/skel/.config/ibus/bus/7d409c1f458f43c49e59264f315f4e50-unix-wayland-0
 /etc/skel/.config/mimeapps.list
@@ -273,7 +366,9 @@
 /etc/skel/.config/user-dirs.dirs
 /etc/skel/.config/user-dirs.locale
 /etc/skel/.config/xdg-terminals.list
+/etc/skel/.local/share/applications/com.desktop.ding.desktop
 /etc/skel/.local/share/applications/mimeapps.list
+/etc/skel/.local/share/applications/mimeinfo.cache
 /etc/skel/.local/share/evolution/addressbook/system/contacts.db
 /etc/skel/.local/share/evolution/calendar/system/calendar.ics
 /etc/skel/.local/share/evolution/tasks/system/tasks.ics
@@ -629,6 +724,8 @@
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxGroupAppsOptions.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxHighlightAppIconHoverOptions.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxIntellihideOptions.ui
+/etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxIsolateMonitorsOptions.ui
+/etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxIsolateWorkspacesOptions.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxMiddleClickOptions.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxOverlayShortcut.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/BoxScrollIconOptions.ui
@@ -645,79 +742,146 @@
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/ui/SettingsStyle.ui
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/utils.js
 /etc/skel/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com/windowPreview.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/askRenamePopup.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/autoAr.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/createThumbnail.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/dbusInterfaces.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/dbusUtils.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/desktopGrid.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/desktopIconItem.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/desktopIconsUtil.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/desktopManager.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/enums.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/fileItem.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/fileItemMenu.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/fileUtils.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/notifyX11UnderWayland.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/preferences.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/prefswindow.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/promiseUtils.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/showErrorPopup.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/signalManager.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/stackItem.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/stylesheet.css
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/templatesScriptsManager.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/app/thumbnails.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/emulateX11WindowType.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/extension.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/gnomeShellOverride.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ar/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/be/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ca/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/cs/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/da/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/de/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/es/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/fi/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/fr/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/fur/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/he/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/hr/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/hu/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/id/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/it/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ja/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ko/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/nl/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/oc/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/pl/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/pt_BR/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ro/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/ru/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/sk/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/sv/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/tr/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/uk/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/zh_CN/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/locale/zh_TW/LC_MESSAGES/ding.mo
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/metadata.json
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/prefs.js
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/schemas/gschemas.compiled
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/schemas/org.gnome.shell.extensions.ding.gschema.xml
-/etc/skel/.local/share/gnome-shell/extensions/ding@rastersoft.com/visibleArea.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/adw-ding.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/adwPreferencesWindow.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/appChooser.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/appImageFileItem.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/askRenamePopup.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/autoAr.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/com.desktop.ding.data.gresource
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopFileIcon.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopFolderMonitor.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopGrid.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopIconFactory.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopIconItem.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/desktopMenu.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/dragManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/enums.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/fileItemIcon.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/fileItemMenu.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/gnomeShellDragDrop.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/preferences.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/shortcutManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/shortcuts.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/showErrorPopup.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/specialFolderIcon.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/stackItem.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/symLinkIcon.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/templatesScriptsManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/thumbnails.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/utils/dbusInterfaces.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/utils/dbusUtils.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/utils/desktopFolderUtils.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/utils/desktopIconsUtil.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/utils/gsConnect.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/volumeIcon.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/app/windowManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/dependencies/gettext.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/dependencies/gi.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/dependencies/localFiles.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/dingManager.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/emulateX11WindowType.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/extension.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/gnomeShellOverride.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ar/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/be/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/bn/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ca/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/cs/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/da/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/de/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/el/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/eo/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/es/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/fa/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/fi/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/fr/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/fur/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/he/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/hr/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/hu/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/id/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/it/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ja/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ka/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ko/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/nb_NO/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/nl/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/oc/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/pl/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/pt/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/pt_BR/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ro/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ru/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/sk/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/sl/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/sv/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/ta/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/tr/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/uk/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/zh_CN/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/locale/zh_TW/LC_MESSAGES/gtk4-ding.mo
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/metadata.json
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/prefs.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/schemas/gschemas.compiled
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/schemas/org.gnome.shell.extensions.gtk4-ding.gschema.xml
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/utils/fileUtils.js
+/etc/skel/.local/share/gnome-shell/extensions/gtk4-ding@smedius.gitlab.com/visibleArea.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/CHANGELOG.md
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/LICENSE
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/extension.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/lib/API.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/lib/Manager.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/lib/Prefs/Prefs.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/lib/Prefs/PrefsKeys.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/lib/SupportNotifier.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/af/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/ar/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/be/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/bg/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/ca/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/de/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/es/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/fr/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/gl/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/it/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/ja/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/ne/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/nl/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/pt_BR/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/ru/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/sv/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/uk/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/zh_CN/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/locale/zh_TW/LC_MESSAGES/just-perfection.mo
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/metadata.json
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/prefs.js
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/resources.gresource
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/schemas/gschemas.compiled
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/schemas/org.gnome.shell.extensions.just-perfection.gschema.xml
+/etc/skel/.local/share/gnome-shell/extensions/just-perfection-desktop@just-perfection/stylesheet.css
 /etc/skel/.local/share/gnome-shell/session.gvdb
 /etc/skel/.local/share/gnome-shell/update-check-48
 /etc/skel/.local/share/gvfs-metadata/home
 /etc/skel/.local/share/gvfs-metadata/home-353cdd16.log
+/etc/skel/.local/share/gvfs-metadata/home-b0e33c95.log
 /etc/skel/.local/share/gvfs-metadata/root
 /etc/skel/.local/share/gvfs-metadata/root-4c518637.log
+/etc/skel/.local/share/gvfs-metadata/root-920820ac.log
+/etc/skel/.local/share/gvfs-metadata/trash:
+/etc/skel/.local/share/gvfs-metadata/trash:-4ab88615.log
 /etc/skel/.local/share/gvfs-metadata/trash_
 /etc/skel/.local/share/gvfs-metadata/trash_-b201efc2.log
 /etc/skel/.local/share/gvfs-metadata/uuid-626B-4255
+/etc/skel/.local/share/gvfs-metadata/uuid-626B-4255-387df44b.log
 /etc/skel/.local/share/gvfs-metadata/uuid-626B-4255-9fa25bb5.log
 /etc/skel/.local/share/gvfs-metadata/uuid-E66AA5AC6AA57A47
+/etc/skel/.local/share/gvfs-metadata/uuid-E66AA5AC6AA57A47-b9d05e4c.log
 /etc/skel/.local/share/gvfs-metadata/uuid-E66AA5AC6AA57A47-d12f4fd9.log
+/etc/skel/.local/share/icc/edid-bb6ad72dc802b000932c73ad20996ae5.icc
+/etc/skel/.local/share/icons/hicolor/icon-theme.cache
+/etc/skel/.local/share/icons/hicolor/scalable/apps/com.desktop.ding.svg
 /etc/skel/.local/share/keyrings/Default_keyring.keyring
 /etc/skel/.local/share/keyrings/default
 /etc/skel/.local/share/nautilus/tags/meta.db
